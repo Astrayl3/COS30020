@@ -1,0 +1,97 @@
+h1{
+    text-align: center;
+}
+nav{
+    background-color:lightpink;
+}
+header.index{
+    background-color: lightcyan;
+}
+a.navbar-brand{
+    font-size: 30px;
+}
+body.post-job{
+    text-align: center;
+    background-color: lightcyan;
+}
+header.post-job{
+    font-size: 20px;
+}
+input.submit{
+    background-color: greenyellow;
+    border-radius: 8px;
+    font-size: 25px;
+    cursor: pointer;
+}
+input.submit:active {
+    background: lightgoldenrodyellow;
+    -webkit-box-shadow: inset 0px 0px 5px #c0efb8;
+       -moz-box-shadow: inset 0px 0px 5px #c0efb8;
+            box-shadow: inset 0px 0px 5px #c0efb8;
+     outline: none;
+}
+button.return-button{
+    border-radius: 8px;
+    font-size: 20px;
+    cursor: pointer;
+}
+button.return-button:active {
+    background: #e5e5e5;
+    -webkit-box-shadow: inset 0px 0px 5px #ffffff;
+       -moz-box-shadow: inset 0px 0px 5px #ffffff;
+            box-shadow: inset 0px 0px 5px #ffffff;
+     outline: none;
+}
+header.post-job{
+    font-size: 20px;
+}
+body.search-job{
+    background-color: lightcyan;
+    text-align: center;
+}
+header.search-job{
+    font-size: 18px;
+}
+input.search-job{
+    background-color: greenyellow;
+    border-radius: 8px;
+    font-size: 25px;
+    cursor: pointer;
+}
+input.search-job:active {
+    background: lightgoldenrodyellow;
+    -webkit-box-shadow: inset 0px 0px 5px #c0efb8;
+       -moz-box-shadow: inset 0px 0px 5px #c0efb8;
+            box-shadow: inset 0px 0px 5px #c0efb8;
+     outline: none;
+}
+header.search-job{
+    font-size: 20px;
+}
+body.about{
+    background-color: lightcyan;
+}
+header.about{
+    text-align: left;
+}
+h1.about{
+    font-size: 60px;
+}
+img.pointing{
+    height: 40px;
+}
+button.return-button-about{
+    border-radius: 8px;
+    font-size: 15px;
+    cursor: pointer;
+}
+button.return-button-about:active {
+    background: #e5e5e5;
+    -webkit-box-shadow: inset 0px 0px 5px #ffffff;
+       -moz-box-shadow: inset 0px 0px 5px #ffffff;
+            box-shadow: inset 0px 0px 5px #ffffff;
+     outline: none;
+}
+img.index{
+    height:15.6cm;
+}

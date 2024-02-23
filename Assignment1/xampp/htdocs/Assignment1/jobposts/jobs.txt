@@ -1,0 +1,5 @@
+PID0001	IT	test	10/02/24	Part Time - Fixed term	Post,Email	ACT
+PID0002	IT Manager	test 2	10/02/24	Full Time - On-going	Email	NSW
+PID0003	Bartender	xxx	16/02/24	Full Time - On-going	Post,Email	QLD
+PID0004	Security	1	22/04/24	Part Time - On-going	Email	SA
+PID0005	Sale	xxx	28/02/24	Full Time - Fixed term	Post,Email	QLD
